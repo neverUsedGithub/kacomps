@@ -1,0 +1,31 @@
+{
+    "name": "@justcoding123/kacomps",
+    "version": "0.0.2",
+    "description": "",
+    "main": "dist/index.js",
+    "module": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "homepage": "https://github.com/neverUsedGithub/kacomps",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/neverUsedGithub/kacomps.git"
+    },
+    "scripts": {
+        "dev": "vite test",
+        "build": "tsup"
+    },
+    "files": [
+        "dist"
+    ],
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "tsup": "^8.1.0",
+        "typescript": "^5.4.5",
+        "vite": "^5.3.0"
+    },
+    "peerDependencies": {
+        "kaplay": "^3001.0.0-alpha.10"
+    }
+}
