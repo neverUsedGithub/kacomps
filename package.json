@@ -1,10 +1,10 @@
 {
     "name": "@justcoding123/kacomps",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "description": "",
-    "main": "dist/index.js",
-    "module": "dist/index.js",
-    "types": "dist/index.d.ts",
+    "main": "dist/index.mjs",
+    "module": "dist/index.mjs",
+    "types": "dist/index.d.mts",
     "homepage": "https://github.com/neverUsedGithub/kacomps",
     "repository": {
         "type": "git",
