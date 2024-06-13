@@ -2,7 +2,7 @@
 
 A utility library for making type-safe KAPLAY components.
 
-# Installing
+# Installation
 
 ```
 npm i @justcoding123/kacomps
